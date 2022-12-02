@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21an spelet", "21an spelet\21an spelet.csproj", "{915D12BC-1857-4611-AD7E-BCE41EE466EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915D12BC-1857-4611-AD7E-BCE41EE466EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915D12BC-1857-4611-AD7E-BCE41EE466EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915D12BC-1857-4611-AD7E-BCE41EE466EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915D12BC-1857-4611-AD7E-BCE41EE466EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D66886-7127-419A-B342-D0783F24C171}
+	EndGlobalSection
+EndGlobal
